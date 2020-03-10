@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: wheat;
+    padding-left: 50%;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+    text-decoration: underline red;
+}
+
+div {
+    max-width: 50%;
+}
